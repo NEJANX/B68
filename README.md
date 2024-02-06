@@ -1,2 +1,2 @@
-# B68 BD Theme
+# B68 BetterDiscord Theme
 A BetterDiscord Theme based on DevilBro's Themes
